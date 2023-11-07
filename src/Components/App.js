@@ -1,5 +1,5 @@
-
-import './App.css';
+import React from 'react';
+import '/home/dylstar/Projects/lotr-quote-generator/src/Styles/App.css';
 
 function App() {
   return (
@@ -14,7 +14,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
     </div>

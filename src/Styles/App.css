@@ -1,0 +1,13 @@
+
+
+.app{
+    display:flex;
+ flex-direction: column;
+   height: 100vh;
+ 
+}
+
+body{
+    background-image: url('/home/dylstar/Projects/lotr-quote-generator/public/Assets/conner-bowe-riw_BZvlMcI-unsplash.jpg');
+    background-size: cover;
+}

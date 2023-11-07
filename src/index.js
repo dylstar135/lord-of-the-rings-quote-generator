@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import '/home/dylstar/Projects/lotr-quote-generator/src/Styles/index.css';
+import App from './Components/App';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,4 +12,3 @@ root.render(
 );
 
 
-reportWebVitals();
